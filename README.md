@@ -14,5 +14,5 @@ use servers speed download big file
 
 * TODO use fastapi framework.
 * Why need is?
--- Could Server up speed biger than down speed.
--- Big Files save to the Could Server. but download speed is slow. that is waste you time.
+* Could Server up speed biger than down speed.
+* Big Files save to the Could Server. but download speed is slow. that is waste you time.
