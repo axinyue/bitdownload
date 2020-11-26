@@ -12,7 +12,7 @@ use servers speed download big file
 
 ## 5. Deploy Center. use ssh connect server deploy Uploader.
 
-TODO use fastapi framework.
-Why need is?
-Could Server up speed biger than down speed.
-Big Files save to the Could Server. but download speed is slow. that is waste you time.
+* TODO use fastapi framework.
+* Why need is?
+-- Could Server up speed biger than down speed.
+-- Big Files save to the Could Server. but download speed is slow. that is waste you time.
